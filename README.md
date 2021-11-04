@@ -8,3 +8,4 @@ Learning GitHub
 3. Inserted line for local testing purposes.
 4. Another line inserted, but now for remote testing purposes.
 5. Other line inserted, for any testing.
+Última linha inserida, por enquanto.
